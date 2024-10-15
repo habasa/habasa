@@ -15,6 +15,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Styled-components-850000?style=flat&logo=mongoose&logoColor=white)
 
 
 
