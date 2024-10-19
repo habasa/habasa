@@ -18,7 +18,8 @@
 
 ### Projects
 - [Rewardy](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
-- [Confin](https://play.google.com/store/apps/details?id=com.confin.app.android&hl=ko)
+- [Confin-app](https://play.google.com/store/apps/details?id=com.confin.app.android&hl=ko)
+- [Confin-wEB](https://confin.live/)
 
 
 
