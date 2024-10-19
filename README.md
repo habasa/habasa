@@ -17,7 +17,7 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
 ### Projects
-- [Rewardy](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
+- [Rewardy-wallet](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
 - [Confin-app](https://play.google.com/store/apps/details?id=com.confin.app.android&hl=ko)
 - [Confin-web](https://confin.live/)
 
