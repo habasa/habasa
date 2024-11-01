@@ -18,7 +18,8 @@
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ### Projects
-- [Rewardy-wallet](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
+- [Rewardy-wallet(android)](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
+- [Rewardy-wallet(ios)](https://apps.apple.com/kr/app/%EB%A6%AC%EC%9B%8C%EB%94%94-%EC%9B%94%EB%A0%9B-rewardy-wallet-%EB%8F%88%EC%9D%B4%EB%90%98%EB%8A%94-%EC%A7%80%EA%B0%91/id6572285114)
 - [Rewardy-landing](https://www.rewardywallet.com/)
 - [Confin-app](https://play.google.com/store/apps/details?id=com.confin.app.android&hl=ko)
 - [Confin-web](https://confin.live/)
