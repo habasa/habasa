@@ -19,6 +19,7 @@
 
 ### Projects
 - [Rewardy-wallet](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
+- [Rewardy-landing](https://www.rewardywallet.com/)
 - [Confin-app](https://play.google.com/store/apps/details?id=com.confin.app.android&hl=ko)
 - [Confin-web](https://confin.live/)
 
