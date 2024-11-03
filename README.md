@@ -10,6 +10,7 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
 ![Jotai](https://img.shields.io/badge/-Jotai-FF8A00?style=flat&logo=Jotai&logoColor=white)
 ![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)
+
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
