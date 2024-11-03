@@ -16,6 +16,8 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-262627?style=flat&logo=typeorm&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Projects
 - [Rewardy-wallet(android)](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
