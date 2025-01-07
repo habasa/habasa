@@ -28,7 +28,7 @@
 - [Rewardy-wallet(android)](https://play.google.com/store/apps/details?id=com.chainwith.rewardy&hl=ko)
 - [Rewardy-wallet(ios)](https://apps.apple.com/kr/app/%EB%A6%AC%EC%9B%8C%EB%94%94-%EC%9B%94%EB%A0%9B-rewardy-wallet-%EB%8F%88%EC%9D%B4%EB%90%98%EB%8A%94-%EC%A7%80%EA%B0%91/id6572285114)
 - [Rewardy-landing](https://www.rewardywallet.com/)
-- [Confin-app]([https://play.google.com/store/apps/details?id=com.confin.app.android&hl=ko](https://apps.apple.com/kr/app/%EC%BD%98%ED%95%80/id1596242785))
+- [Confin-app](https://apps.apple.com/kr/app/%EC%BD%98%ED%95%80/id1596242785)
 - [Confin-web](https://confin.live/)
 
 
