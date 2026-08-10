@@ -1,16 +1,17 @@
 ## Hi there 👋
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeORM](https://img.shields.io/badge/-TypeORM-262627?style=flat&logo=typeorm&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-TypeORM-262627?style=flat&logo=typeorm&logoColor=white" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
 
 
 
